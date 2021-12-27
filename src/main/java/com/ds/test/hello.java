@@ -7,5 +7,9 @@ public class hello {
         System.out.println("fdfdfd");
         System.out.println("hellogit hot");
         System.out.println("push git");
+        System.out.println("push git");
+        System.out.println("push git");
+        System.out.println("push git");
+        System.out.println("push git");
     }
 }
